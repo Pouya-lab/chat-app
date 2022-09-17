@@ -7,7 +7,7 @@ function App() {
     <section >
 
       <section className="counter-body">
-        <section>
+        <section className="container">
         <h1>Counter App</h1>
         <h2>{count}</h2>
         <section className="buttons">
